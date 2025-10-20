@@ -2,8 +2,7 @@
 
 Sebuah aplikasi web *single-page* yang memungkinkan pengguna membuat gambar panggilan masuk palsu dengan cepat dan mudah. Proyek ini dibangun sepenuhnya menggunakan **HTML, CSS, dan JavaScript**, tanpa memerlukan *backend*.
 
-![Contoh Tampilan Website](https://your-domain.com/screenshot.jpg)
-*<p align="center">Ganti URL di atas dengan screenshot website Anda.</p>*
+![Contoh Tampilan Website](https://fakecall.markxplorer.my.id/screenshot.jpg)
 
 ## Deskripsi 📝
 
@@ -36,7 +35,7 @@ Proyek ini tidak memerlukan instalasi atau server.
 
 1.  **Clone atau Unduh Proyek:**
     ```bash
-    git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
+    git clone https://github.com/markxplorer969/fakecall.git
     ```
     Atau cukup unduh file `index.html`.
 
